@@ -53,7 +53,7 @@ public class Main {
 		
 		List<String> result = subLlista(list, "Al");
 		
-		System.out.println("-----SUBLISTA----");
+		System.out.println("-----SUBLISTA-----");
 		
 		for (String string : result) {
 			System.out.println(string);			
