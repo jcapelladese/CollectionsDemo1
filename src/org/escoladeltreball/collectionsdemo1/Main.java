@@ -28,7 +28,7 @@ public class Main {
 		list.add("Delta");
 		list.add("Zulu");
 		
-		list.remove("Charlie");
+		list.remove("Bravo");
 		
 		Collections.sort(list);
 		
