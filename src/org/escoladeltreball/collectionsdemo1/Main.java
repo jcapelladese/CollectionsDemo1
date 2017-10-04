@@ -3,10 +3,9 @@
  */
 package org.escoladeltreball.collectionsdemo1;
 
-import java.util.List;
-import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
+import java.util.LinkedList;
+import java.util.List;
 
 /**
  * @author iaw47941842
@@ -19,7 +18,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		List<String> list = new ArrayList();
+		List<String> list = new LinkedList<>(); 		
 		
 		list.add("Alpha");
 		list.add("Charlie");
